@@ -487,3 +487,13 @@ h3{
                 font-size: 1.3rem;
             }
         }
+
+
+/* Game Section */
+
+        .web-game-section{
+            img{
+                height: 80px;
+                width: 80px;
+            }
+        }
